@@ -1,0 +1,16 @@
+c:\users\frankmer\documents\visual studio 2013\Projects\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.exe.config
+c:\users\frankmer\documents\visual studio 2013\Projects\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.exe
+c:\users\frankmer\documents\visual studio 2013\Projects\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.pdb
+c:\users\frankmer\documents\visual studio 2013\Projects\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.exe
+c:\users\frankmer\documents\visual studio 2013\Projects\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.pdb
+C:\Users\20130616\Desktop\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.exe.config
+C:\Users\20130616\Desktop\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.exe
+C:\Users\20130616\Desktop\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.pdb
+C:\Users\20130616\Desktop\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.exe
+C:\Users\20130616\Desktop\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.pdb
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.exe.config
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.exe
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.pdb
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.exe
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Leer archivo de texto\Leer archivo de texto\bin\Debug\Leer archivo de texto.pdb
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Leer archivo de texto\Leer archivo de texto\obj\Debug\Leer archivo de texto.csprojResolveAssemblyReference.cache

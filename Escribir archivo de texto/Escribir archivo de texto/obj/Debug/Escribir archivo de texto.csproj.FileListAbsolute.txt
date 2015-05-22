@@ -1,0 +1,18 @@
+c:\users\frankmer\documents\visual studio 2013\Projects\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.exe.config
+c:\users\frankmer\documents\visual studio 2013\Projects\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.exe
+c:\users\frankmer\documents\visual studio 2013\Projects\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.pdb
+c:\users\frankmer\documents\visual studio 2013\Projects\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.csprojResolveAssemblyReference.cache
+c:\users\frankmer\documents\visual studio 2013\Projects\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.exe
+c:\users\frankmer\documents\visual studio 2013\Projects\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.pdb
+C:\Users\20130616\Desktop\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.exe.config
+C:\Users\20130616\Desktop\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.exe
+C:\Users\20130616\Desktop\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.pdb
+C:\Users\20130616\Desktop\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.exe
+C:\Users\20130616\Desktop\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.pdb
+C:\Users\20130616\Desktop\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.csprojResolveAssemblyReference.cache
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.exe.config
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.exe
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.pdb
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.exe
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Escribir archivo de texto\Escribir archivo de texto\bin\Debug\Escribir archivo de texto.pdb
+D:\tareas\8vo Cuatrimestre\Integracion de software con tecnologia open source\entregable\Escribir archivo de texto\Escribir archivo de texto\obj\Debug\Escribir archivo de texto.csprojResolveAssemblyReference.cache
